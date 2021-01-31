@@ -1,0 +1,15 @@
+{
+  "title": "SpoutBreeze Documentation",
+  "tagline": "SpoutBreeze BigBlueButton Meetings Broadcasting Platform Documentation",
+  "author": "Ghazi Triki",
+  "image": "",
+  "format": "html",
+  "timezone": "UTC",
+  "html": { "google_analytics": "G-55V08XT77W" },
+    "variants": {
+    "navy": {
+      "favicon": "<theme_url>img/favicon-navy.png",
+      "css": ["<theme_url>css/theme-navy.min.css"]
+    }
+  }
+}

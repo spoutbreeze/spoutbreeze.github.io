@@ -1,0 +1,14 @@
+{
+    "name": "spoutbreeze/docs",
+    "description": "SpoutBreeze Platform Documentation",
+    "type": "project",
+    "require": {
+        "daux/daux.io": "^0.15.1"
+    },
+    "authors": [
+        {
+            "name": "Ghazi Triki",
+            "email": "ghazi.triki@riadvice.tn"
+        }
+    ]
+}
