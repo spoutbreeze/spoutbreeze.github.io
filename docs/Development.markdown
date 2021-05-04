@@ -31,6 +31,10 @@ gradle run
 
 ## SpoutBreeze Web
 
+## RabbitMQ management console
+
+http://spoutbreeze.test:15672/
+
 ### Create a new database migration
 ```bash
 vendor/bin/phinx create AddColumnsToAgent
